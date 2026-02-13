@@ -1,7 +1,8 @@
-# Tauri + React
+# Bob's Better Brawlhalla Ping Tester
 
-This template should help get you started developing with Tauri and React in Vite.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+- Ping checker for Brawlhalla with pretty graphs and QoL features
+- Pre-built binary for Windows available [here](https://www.mediafire.com/file/akl7jed6eh5u5vh/Bobs-Better-Brawlhalla-Pinger.exe/file)
+- For building it yourself:
+	- Ensure you have Rust and Node installed
+	- Clone the repository
+	- Run `cd bh-pinger` and `npm run tauri build`
