@@ -14,5 +14,5 @@
 
 ## 💾 Download
 
-### [Download for Windows](https://www.mediafire.com/file/akl7jed6eh5u5vh/Bobs-Better-Brawlhalla-Pinger.exe/file)
+> ### [Download for Windows](https://www.mediafire.com/file/akl7jed6eh5u5vh/Bobs-Better-Brawlhalla-Pinger.exe/file)
 *for other operating systems, please build from source with* `npm run tauri build`
